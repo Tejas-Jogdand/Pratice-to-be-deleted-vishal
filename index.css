@@ -1,0 +1,31 @@
+a:hover {
+    border-bottom: 2px solid #333;
+  }
+  
+footer{
+
+  background-color: black;
+}
+
+div.navFooterLine{
+
+  font-size: 12px;
+}
+  
+.navFooterCopyright {
+  background-color: #131A22;
+  max-width: 100%;
+  margin: 0;
+  padding: 10px 0 30px;
+}
+
+/* font: <style> */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100&family=Smokum&display=swap');
+
+.font-change{
+  font-family:Arial;
+  /* font-family: 'Smokum', cursive;  */
+}
+.card-img-overlay{
+ align-items: center;
+}

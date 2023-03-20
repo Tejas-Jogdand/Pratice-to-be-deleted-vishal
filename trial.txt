@@ -1,0 +1,58 @@
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine navFooterCopyright">
+  <span>© 1996-2023, Amazon.com, Inc. or its affiliates</span>
+</div>
+
+
+<div class="container-fluid">
+      <a class="navbar-brand" href="#">Expand at xxl</a>
+      <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleXxl" aria-controls="navbarsExampleXxl" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="navbar-collapse collapse" id="navbarsExampleXxl" style="">
+        <ul class="navbar-nav me-auto mb-2 mb-xl-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownXxl" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdownXxl">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form>
+          <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+        </form>
+      </div>
+    </div>
+
+
+
+     EVENT:  Debate 
+Event Description :- Participants per team (minimum 1 and maximum 3)
+Time :- 3 hours
+The Debate Event is an exciting opportunity for students to showcase their skills in public speaking and critical thinking. 
+This event consists of 3 rounds, each designed to challenge participants' abilities to present compelling arguments, think on their feet, and respond to their opponents.
+
+Rules & Regulations:- 
+
+1:- Each team must consist of a minimum of 1 and a maximum of 3 participants. Solo participants are welcome to participate.
+2:- The event will consist of 3 rounds, with each round lasting for a maximum of 10 minutes.
+3:- Use of Mobile for first round is strictly prohibited.
+4:- The judges will score the participants based on the following criteria: content, delivery, and audience engagement.
+5:- The use of offensive language or derogatory remarks is strictly prohibited and will result in disqualification.
+6:- Each team is responsible for conducting themselves in a respectful and professional manner throughout the event.
+7:- The judges' decision will be final and no appeals will be entertained.
+8:- Participants must arrive at the venue at least 30 minutes prior to the start of the event.
+9:- Participants must adhere to the time limit for each round, and will be penalized for exceeding the time limit.
+10:- Participants are responsible for their own transportation and other expenses.
+      We hope to see you there for a lively and engaging debate event!
